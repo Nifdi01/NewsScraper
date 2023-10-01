@@ -1,0 +1,6 @@
+list_of_items = '//div/a[@class="news-of-day"]'
+title = '//div[@class="news-content"]/h2'
+content = '//div[@class="text-content"]'
+date = '//span[contains(@class, "news-inner-date")]'
+category = '//span[contains(@class, "news-category")]'
+views = '//span[contains(@class, "read-count")]'
